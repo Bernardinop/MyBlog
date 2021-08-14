@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#slider{
+    height: auto;
+    overflow: hidden;
+}
+
+#slider img{
+    height: auto;
+}
+
+#titulo{
+    border: 1px dashed red;
+}
+
+#titulo2{
+    border: 1px dashed red;
+}
