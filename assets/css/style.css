@@ -21,3 +21,14 @@
 #titulo2{
     border: 1px dashed red;
 }
+
+#fotoCarrusel{
+    background: black;
+    color: white;
+    font-size: 18px;
+    font-family: arial;
+}
+
+#advertencia{
+    color: red;
+}
