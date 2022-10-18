@@ -32,3 +32,15 @@
 #advertencia{
     color: red;
 }
+
+#contenidoCon{
+    padding: 10px;
+}
+
+#contenidoCon table{
+    margin: auto;
+}
+
+.selector{
+    border: 3px solid green;
+}
